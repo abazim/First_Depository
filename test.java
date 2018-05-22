@@ -42,5 +42,8 @@ class abdul{
 	public static void main (){
 		test d = null; 
 		System.out.println(d.h);
-	}
+	
+	
+	/// code commited
+	//}
 }
